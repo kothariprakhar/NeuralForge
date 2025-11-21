@@ -1,0 +1,5 @@
+{
+  "name": "NeuralForge",
+  "description": "An AI-powered discovery engine for machine learning enthusiasts. It curates innovative project ideas based on the latest Hugging Face models and research papers, providing implementation blueprints and starter code.",
+  "requestFramePermissions": []
+}
